@@ -50,7 +50,3 @@ Create superuser:
 ```
 docker-compose exec web python manage.py createsuperuser
 ```
-Look the available resources:
-```
-http://<your host>/redoc
-```
