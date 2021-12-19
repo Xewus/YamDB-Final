@@ -1,4 +1,4 @@
-# yamdb_final
+# YamDB Final
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 ![example workflow](https://github.com/xewus/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
