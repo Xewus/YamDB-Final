@@ -10,7 +10,7 @@ such as: books, songs, paintings etc.
 # Technologies:
 
 - Python
-- Django
+- Django REST
 - Nginx
 - Postgress
 - Docker
