@@ -18,7 +18,7 @@ such as: books, songs, paintings etc.
 # How to use it:
 
 - Upload from yamdb/infra/ the file "docker-compose.yaml" and the folder "nginx/" to your server.
-- Create the file ".env" like it:
+- Create the file  ".env"  like it:
 ```
 SECRET_KEY='<Your secret key for Django app>'
 HOSTS='<Your host>'
